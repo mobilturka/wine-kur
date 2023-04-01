@@ -1,5 +1,0 @@
-[Default Applications]
-application/x-ms-dos-executable=wine.desktop
-
-[Added Associations]
-application/x-ms-dos-executable=wine.desktop;
