@@ -1,4 +1,4 @@
-wine-kur (8.0) bookworm; urgency=medium
+wine-kur (1.0) bookworm; urgency=medium
 
   * Recommend wine32, wine64 (wine32 doesn't get installed otherwise).
 
