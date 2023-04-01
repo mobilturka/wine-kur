@@ -1,11 +1,11 @@
-Source: wine-installer
+Source: wine-kur
 Section: admin
 Priority: optional
 Maintainer: mt <03teknoloji@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 1.0
 
-Package: wine-installer
+Package: wine-kur
 Architecture: all
 Depends: wine
 Recommends: wine64, wine32
