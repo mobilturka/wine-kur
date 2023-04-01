@@ -2,5 +2,5 @@ wine-kur (1.0) bookworm; urgency=medium
 
   * Recommend wine32, wine64 (wine32 doesn't get installed otherwise).
 
- -- mobilturka <mt@03teknoloji.com>  Tue, 07 Jun 2022 17:04:55 +0100
+ -- mobilturka <mt@03teknoloji.com>  Fri, 31 Mar 2023 17:10:35 +0100
 
