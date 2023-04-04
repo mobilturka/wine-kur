@@ -10,8 +10,8 @@ sudo dpkg --add-architecture i386 && sudo apt update
 ```
 
 Wine kurulumu sonrasında: 
-*winecfg* komutu ile wine mono yükleyiciyi yükleyelim.
+*winecfg komutu ile wine mono yükleyiciyi yükleyelim.
 
 Menü de wine dizininin eklenmiş olduğunu göreceksiniz. Wine ile kurulan uygulamalar bu dizin içinde yer alır. 
 
-wine --version komutu ile de versiyon kontrolü yapabilirsiniz.
+*wine --version komutu ile de versiyon kontrolü yapabilirsiniz.
