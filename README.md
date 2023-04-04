@@ -1,8 +1,17 @@
 # wine-kur
 
-Tam yükleme için bu paketi yüklemeden önce i386 mimarisi ekli olmalı.
-Terminalde aşağıdaki komutu çalıştırınız:
+Bu paket Debian ve Debian tabanlı dağıtımlar için resmi depodaki Wine paketini sisteme kurar. 
+
+wine-kur.deb paketini çalıştırmadan önce sisteminizde i386 mimarisi ekli olmalı.
+Sisteme i386 mimarisi eklemek için terminalde aşağıdaki komutu çalıştırınız:
 
 ```
 sudo dpkg --add-architecture i386 && sudo apt update
 ```
+
+Wine kurulumu sonrasında: 
+*winecfg* komutu ile wine mono yükleyiciyi yükleyelim.
+
+Menü de wine dizininin eklenmiş olduğunu göreceksiniz. Wine ile kurulan uygulamalar bu dizin içinde yer alır. 
+
+wine --version komutu ile de versiyon kontrolü yapabilirsiniz.
