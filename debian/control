@@ -1,7 +1,7 @@
 Source: wine-kur
 Section: admin
 Priority: optional
-Maintainer: mt <03teknoloji@gmail.com>
+Maintainer: mobilturka <03teknoloji@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 1.0
 
