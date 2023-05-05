@@ -1,5 +1,8 @@
 # wine-kur
 
+.deb paketi indirme linki:
+https://github.com/mobilturka/wine-kur/releases/tag/current
+
 Bu paket Debian ve Debian tabanlı dağıtımlar için resmi depodaki Wine paketini sisteme kurar. 
 
 wine-kur.deb paketini çalıştırmadan önce sisteminizde i386 mimarisi ekli olmalı.
