@@ -5,8 +5,8 @@ https://github.com/mobilturka/wine-kur/releases/tag/current
 
 Bu paket Debian ve Debian tabanlı dağıtımlar için resmi depodaki Wine paketini sisteme kurar. 
 
-wine-kur.deb paketini çalıştırmadan önce sisteminizde i386 mimarisi ekli olmalı.
-Sisteme i386 mimarisi eklemek için terminalde aşağıdaki komutu çalıştırınız:
+ÖNEMLİ: wine-kur.deb paketini çalıştırmadan önce sisteminizde i386 mimarisi ekli olmalı!
+Sisteme i386 mimarisi eklemek için terminalde aşağıdaki komutu çalıştırınız.
 
 ```
 sudo dpkg --add-architecture i386 && sudo apt update
