@@ -1,9 +1,7 @@
 # wine-kur (Önemlidir lütfen okuyunuz!)
 
-.deb paketi indirme linki:
-https://github.com/mobilturka/wine-kur/releases/tag/current
 
-Bu paket Debian ve Debian tabanlı dağıtımlar için resmi depodaki Wine paketini sisteme kurar. 
+Bu paket Debian ve Debian tabanlı dağıtımlar için (Pardus vb.) resmi depodaki Wine paketini sisteme kurar. 
 
 ÖNEMLİ: wine-kur.deb paketini çalıştırmadan önce sisteminizde i386 mimarisi ekli olmalı!
 Sisteme i386 mimarisi eklemek için terminalde aşağıdaki komutu çalıştırınız.
@@ -11,6 +9,9 @@ Sisteme i386 mimarisi eklemek için terminalde aşağıdaki komutu çalıştır�
 ```
 sudo dpkg --add-architecture i386 && sudo apt update
 ```
+
+wine-kur.deb paketi indirme linki:
+https://github.com/mobilturka/wine-kur/releases/tag/current
 
 Wine kurulumu sonrasında: 
 "winecfg" komutu ile wine mono yükleyiciyi yükleyelim.
