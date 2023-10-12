@@ -1,4 +1,4 @@
-# wine-kur
+# wine-kur (Önemlidir lütfen okuyunuz!)
 
 .deb paketi indirme linki:
 https://github.com/mobilturka/wine-kur/releases/tag/current
